@@ -12,10 +12,11 @@ The game will be available on desktop only at first, with the possibility of a f
 
 ---
 ### IV. Story
+#### Theme and Premise
 FliP has a very simplistic theme, and not much of a story. The premise revolves around the player characters attempt to escape from the strange world he’s found himself in. As he finds himself capable of utilizing the weird power of this contrasting world, he struggles to find his way to home. However, as he makes his way through the world, voices and whispers appear randomly, twisted words that bring nothing but confusion and fear.
 
-Due to this, the game is meant to invoke a combination of intrigue, fear and confusion for the player, as they make their way through the disturbing words and difficult puzzle platforms.
-
+Due to this, the game is meant to invoke a combination of intrigue, fear and confusion for the player, as they make their way through the disturbing words and difficult puzzle platforms. Each level will get progressively longer and more difficult, and each one will end at a staircase upwards.
+#### Player Motivation
 The players motivation resides in the desire to escape this twisted world, to be done with these crazy voices, and to overcome to difficult puzzle platforms that make up the core of the game. There will also be a non-story mode for just this purpose, an never-ending level based on a scoring system for high-score seekers.
 
 ---
