@@ -30,7 +30,7 @@ The sound effects will also include jumping and landing sounds, as well as death
 ---
 ### VI. Gameplay
 #### Mechanics
-The mechanics ofFliP are straightforward, just like most of the game. The player can move the square that represents the main character left and right, as well as make him jump. In addition, the player can flip the color of the background and the player piece to change around the puzzle. This will be a core mechanic of the game, as it is required to proceed through many sections. 
+The mechanics of FliP are straightforward, just like most of the game. The player can move the square that represents the main character left and right, as well as make him jump. In addition, the player can flip the color of the background and the player piece to change around the puzzle. This will be a core mechanic of the game, as it is required to proceed through many sections. 
 #### Controls
 The controls for movement are flexible, allowing the use of the arrows keys and/or WASD for side-to-side and jumping movements. When it comes to flipping the perspective, that will require hitting the spacebar.
 The only need for the mouse will be in the main menu, when selecting your gamemode or viewing your highscores. 
